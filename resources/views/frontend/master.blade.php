@@ -39,10 +39,6 @@
 @include('frontend.includes.travel_variation')
 <!-- /travel_variation -->
 
-<!-- testimonial_area  -->
-@include('frontend.includes.testimonial')
-<!-- /testimonial_area  -->
-
 <!-- newsletter_area_start  -->
 @include('frontend.includes.newsletter')
 <!-- newsletter_area_end  -->

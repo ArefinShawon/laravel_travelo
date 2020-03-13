@@ -51,10 +51,9 @@
                             Company
                         </h3>
                         <ul class="links">
-                            <li><a href="#">Pricing</a></li>
                             <li><a href="{{route('about')}}">About</a></li>
                             <li><a href="#"> Gallery</a></li>
-                            <li><a href="#"> Contact</a></li>
+                            <li><a href="{{route('contact')}}"> Contact</a></li>
                         </ul>
                     </div>
                 </div>
